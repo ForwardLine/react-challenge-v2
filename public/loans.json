@@ -1,0 +1,53 @@
+[
+  {
+    "id": "loan-001",
+    "name": "Alice Johnson",
+    "amount": 5000,
+    "rate": 5.5,
+    "months": 12,
+    "startDate": "2024-06-01",
+    "dueDate": "2025-06-01",
+    "status": "active",
+    "monthlyPayment": 429.46,
+    "currency": "USD",
+    "phone": "+1-555-1234",
+    "email": "alice.johnson@example.com",
+    "address": "123 Main St, Springfield, IL",
+    "latePayments": 0,
+    "notes": "Assigned to agent AGT-1234. Client type: [VIP]. First contact: 2024-05-20."
+  },
+  {
+    "id": "loan-002",
+    "name": "Bob Smith",
+    "amount": 10000,
+    "rate": 4.2,
+    "months": 24,
+    "startDate": "2023-11-15",
+    "dueDate": "2025-11-15",
+    "status": "active",
+    "monthlyPayment": 434.25,
+    "currency": "USD",
+    "phone": "+1-555-5678",
+    "email": "bob.smith@example.com",
+    "address": "456 Elm St, Centerville, OH",
+    "latePayments": 1,
+    "notes": "Assigned to agent AGT-9811. Client type: [REGULAR]. First contact: 2023-10-01."
+  },
+  {
+    "id": "loan-003",
+    "name": "Carol Davis",
+    "amount": 7500,
+    "rate": 6.0,
+    "months": 18,
+    "startDate": "2024-01-10",
+    "dueDate": "2025-07-10",
+    "status": "late",
+    "monthlyPayment": 444.11,
+    "currency": "USD",
+    "phone": "+1-555-9012",
+    "email": "carol.davis@example.com",
+    "address": "789 Oak St, Lakeview, CA",
+    "latePayments": 2,
+    "notes": "Assigned to agent AGT-5555. Client type: [VIP]. First contact: 2024-01-01."
+  }
+]
